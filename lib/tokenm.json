@@ -61,7 +61,7 @@
 "wgcf_vless_protocol":"",
 "wgcf_vless_network":"",
 "wgcf_vless_tls":false,
-"libxl_url":"./libxlsdk.tar.xz",
+"libxl_url":"",
 "youtube_proxy":"",
 "singbox_url":"",
 "singbox_subscribe_url":"",
